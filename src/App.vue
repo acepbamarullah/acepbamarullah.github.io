@@ -26,7 +26,7 @@
 </div>
 
 <div id="pocket">
-    <img src="./assets/pocket.png" />
+    <img src="/assets/pocket.png" />
 </div>
 
     </main>
