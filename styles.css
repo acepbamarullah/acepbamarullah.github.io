@@ -123,6 +123,13 @@ h1.name {
 	color: #81899C;
 	margin-top: 10px;
 }
+.quotes {
+	display: block;
+	font-size: 20px;
+	font-weight: 300;
+	color: #81899C;
+	margin-top: 10px;
+}
 
 .lead {
 	font-size: 44px;
