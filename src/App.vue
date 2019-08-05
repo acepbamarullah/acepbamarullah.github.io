@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1><img src="/assets/pokeball.png" width="5%" height="5%" style="vertical-align: middle;"/> PokeMan</h1>
+      <h1><img src="assets/pokeball.png" width="5%" height="5%" style="vertical-align: middle;"/> PokeMan</h1>
     </header>
     <main>
 
@@ -26,7 +26,7 @@
 </div>
 
 <div id="pocket">
-    <img src="/assets/pocket.png" />
+    <img src="assets/pocket.png" />
 </div>
 
     </main>
