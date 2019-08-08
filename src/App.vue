@@ -61,7 +61,6 @@ body {
 .column-left {
   float: left;
   width: 20%;
-  padding: 10px;
   height: 50%; /* Should be removed. Only for demonstration */
   overflow: scroll;
 }
@@ -69,7 +68,7 @@ body {
   opacity: 0.5;
   float: left;
   width: 80%;
-  padding: 10px;
+  padding: 0;
   height: 100%; /* Should be removed. Only for demonstration */
 }
 
